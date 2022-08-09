@@ -1,3 +1,10 @@
+## Real Estate App
+- Made with React, Next.js, Chakra-UI
+
+<img width="1436" alt="Screen Shot 2022-08-08 at 8 57 55 PM" src="https://user-images.githubusercontent.com/98681977/183561322-7a2be841-0d08-48d9-a918-cf8cb39eb2ba.png">
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
